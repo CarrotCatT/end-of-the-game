@@ -13,7 +13,4 @@ public class SimpleWebController {
         log.info("showing my page :P");
         return "my-page"; //page name in string (same as in .html file in resoruce templates fold.
     }
-
-
-
 }
